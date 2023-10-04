@@ -1299,6 +1299,7 @@ blockquote {
   }
 }
 
+
 /** Width between 600px to 0
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
@@ -1390,6 +1391,9 @@ blockquote {
   /* Navbar */
   nav {
     padding: 20px 15px;
+  }
+  .hero-nome {
+    font-size: 24px;
   }
 
   .nav-menu {
