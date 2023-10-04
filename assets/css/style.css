@@ -333,7 +333,7 @@ p {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #4b4a4a;
+  color: #ffffff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -572,9 +572,10 @@ p {
 }
 
 #sobre .sobre-descr .p-heading {
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", helvetica;
   font-size: 28px;
   text-align: left;
+  font-weight: 600;
 }
 
 #sobre .sobre-descr .separator {
